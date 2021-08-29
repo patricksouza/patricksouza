@@ -1,38 +1,21 @@
-### Hi there 👋
+### Hi there, my name is Patrick! 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/patricksouza)](https://github.com/patricksouza)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patricksouza10/)](https://www.linkedin.com/in/patricksouza10/)
-
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricksouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      height="170em"
+      src="https://github-readme-stats.vercel.app/api?username=patricksouza&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark&include_all_commits=true&count_private=true"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="166"
-      src="https://github-readme-stats.vercel.app/api?username=patricksouza&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      height="170em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricksouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true&layout=compact"
     />
   </a>
-</p>
-
-<!--
-**patricksouza/patricksouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div> 
