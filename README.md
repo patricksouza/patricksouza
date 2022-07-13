@@ -17,7 +17,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <br>
-<div align="left">
+<!--<div align="left">
      <a href="https://github.com/anuraghazra/github-readme-stats">
             <img
                 align="center"
@@ -31,4 +31,4 @@
                height="160em"
                src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricksouza&show_icons=true&theme=vue-dark&border_radius=10&include_all_commits=true&count_private=true&layout=compact&hide_border=true" />
         </a>
-</div>
+</div>-->
